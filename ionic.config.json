@@ -1,0 +1,7 @@
+{
+  "name": "tabsmenuApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
